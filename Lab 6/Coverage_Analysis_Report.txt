@@ -1,0 +1,29 @@
+# Lab 6: Code and Branch Coverage Analysis
+
+**Name:** Ankitha Revadala  
+**SRN:** PES1UG24AM044  
+**Application:** Warranty Claims
+
+## 1. Objective
+
+The objective of this lab is to test the warranty claims application and measure code coverage and branch coverage using Python's coverage tool.
+
+## 2. Code Coverage Analysis
+
+Code coverage measures how much of the application's code is executed during testing. Test cases were written for the warranty charge calculation, claim eligibility, and SLA status functions.
+
+The final report showed 100% code coverage, with 37 statements and zero missed statements.
+
+## 3. Branch Coverage Analysis
+
+Branch coverage measures whether the different outcomes of conditional statements are tested. Additional test cases were written to exercise different conditions, including valid and invalid claims, warranty limits, and SLA status decisions.
+
+The final report showed 100% branch coverage, with 26 branches measured and zero missing branches.
+
+## 4. Results
+
+Both code coverage and branch coverage achieved 100%, exceeding the required minimum of 90%. The terminal screenshots are included with the submission.
+
+## 5. Conclusion
+
+The testing exercise helped verify the different functions and decision paths in the warranty claims application. Both coverage targets were achieved without modifying the original application code.
